@@ -9,4 +9,6 @@ it works on ONE PAGE CHECKOUT
 
 no core file rewrite.
 
-donate it for me: https://paypal.me/helen5106
+If you use this code, please give credit!
+
+donate link: https://paypal.me/helen5106
